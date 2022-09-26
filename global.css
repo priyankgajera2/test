@@ -263,6 +263,8 @@
 
 #gl-navigation .nav-link .lexicon-icon {
 	color: var(--color-neutral-8);
+	height: 1.5rem;
+	width: 1.5rem;
 }
 
 #gl-navigation .nav-link .lexicon-icon.lexicon-icon-angle-right-small {
