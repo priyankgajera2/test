@@ -118,7 +118,8 @@
 #gl-header .nav-item-bookmark .lexicon-icon,
 #gl-header .nav-item-notification .lexicon-icon {
 	color: var(--color-neutral-10);
-	height: 18px;
+	height: 1.5rem;
+	width: 1.5rem;
 }
 
 .menubar-closed #gl-header,
