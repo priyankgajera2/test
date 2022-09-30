@@ -408,11 +408,7 @@
 @media (max-width: 576px) {
 
 	.has-control-menu #gl-navigation {
-		top: 7.063rem;
-	}
-
-	.menubar-expanded.has-control-menu #gl-navigation {
-		height: calc(100vh - 4.5rem - 3.063rem);
+		top: 3rem;
 	}
 
 }
